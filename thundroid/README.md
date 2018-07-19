@@ -159,8 +159,6 @@ $ passwd
 $ apt update
 $ apt upgrade
 $ apt dist-upgrade
-$ apt install linux-image-xu3 
-# answer [y], then [no] (do not abort)
 
 # install some additional software
 $ apt install htop git curl bash-completion jq
