@@ -85,9 +85,9 @@ Assembly is easy, just enter the hard disk and fix it with the the screws includ
 
 ### Installing the operating system
 
-We use Ubuntu 16.04.03 LTE (Minimal, Bare OS) that is provided by Hardkernel. Download the image from the Odroid-XU4 section on [wiki.odroid.com](https://wiki.odroid.com/).
+We use Ubuntu 18.04-3.14 (Minimal, Bare OS) that is provided by Hardkernel. Download the image from the Odroid-XU4 section on [wiki.odroid.com](https://wiki.odroid.com/).
 
-Exact file used: [ubuntu-16.04.3-4.14-minimal-odroid-xu4-20171213.img.xz](https://odroid.in/ubuntu_16.04lts/ubuntu-16.04.3-4.14-minimal-odroid-xu4-20171213.img.xz)
+Exact file used: [ubuntu-18.04-4.14-minimal-odroid-xu4-20180531.img.xz](https://odroid.in/ubuntu-18.04-4.14-minimal-odroid-xu4-20180531.img.xz)
 
 Download the image, flash it on your MicroSD card, put it into your Thundroid, connect it to your network via cable and connect the power adapter. The initial boot can take several minutes. 
 
